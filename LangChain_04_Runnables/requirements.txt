@@ -1,0 +1,17 @@
+# Core LangChain modules (modern API)
+langchain==0.3.27
+langchain-core==0.3.72
+langchain-community==0.3.27
+
+# LLM connectors (choose any or both)
+langchain-openai==0.2.7
+langchain-google-genai==2.0.5
+
+# Tokenizer + Utilities
+tiktoken>=0.7.0
+python-dotenv>=1.0.1
+PyYAML>=6.0
+
+# Optional: useful for upcoming demos
+pandas>=2.1.0
+requests>=2.31.0
