@@ -1,0 +1,9 @@
+llm:
+
+  provider: gemini
+
+  gemini:
+    model_name: gemini-3.6-flash
+
+  openai:
+    model_name: gpt-4o
